@@ -1,0 +1,7 @@
+notebook
+pymysql
+sqlalchemy
+torch
+py3Dmol
+biopython
+fair-esm
